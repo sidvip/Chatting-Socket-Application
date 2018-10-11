@@ -1,4 +1,4 @@
-# Chatting-Application : JAVA (SocketServer Single Server Multi Client)
+# JAVA SocketServer Single Server Multi Client
 A java socket server client application to connect multiple users to a single server.
 
 ## 1. To run the application for new database
