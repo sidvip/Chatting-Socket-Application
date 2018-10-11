@@ -1,0 +1,6 @@
+Name,DOB,Contact,Gender,Password
+vibhu,05-05-1996,7895385692,m,vibhu
+kshemika,01-01-1990,9897620295,f,yashu
+mangesh,063210351,1234512345,m,mangesh
+elon,10-10-1975,7777777777,m,musk
+yug,09/01/2001,9960123034,d,yug@123
